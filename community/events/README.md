@@ -213,7 +213,7 @@ This is a recopilation of events where I been part of the organizing team, along
 <a href="https://www.instagram.com/p/CqobtGTrKT9/">instagram.com/p/CqobtGTrKT9/</a>
 </summary>
 
-<img height="240" src="./gdscunivalle-iwd2023/2_339342413_135193809476013_5504665323660618347_n.jpg)"/>
+<img height="240" src="./gdscunivalle-iwd2023/2_339342413_135193809476013_5504665323660618347_n.jpg"/>
 </details>
 
 <details>
@@ -241,7 +241,7 @@ This is a recopilation of events where I been part of the organizing team, along
 <a href="https://www.instagram.com/p/Cpiy-FCMmiL/">instagram.com/p/Cpiy-FCMmiL/</a>
 </summary>
 
-<img height="240" src="./gdscunivalle-iwd2023/5_335135773_926808775172478_778239604545351307_n.jpg)"/>
+<img height="240" src="./gdscunivalle-iwd2023/5_335135773_926808775172478_778239604545351307_n.jpg"/>
 </details>
 
 ## DevFest Bolivia 2022
@@ -300,7 +300,7 @@ https://www.instagram.com/p/CkRh7L3LYUJ/
 <a href="https://www.instagram.com/p/ChpYsCAOxgf/">instagram.com/p/ChpYsCAOxgf/</a>
 </summary>
 
-<img height="240" src="./gdscunivalle-gitworkshop/300708443_480919447252544_7880609078189125050_n.jpg)"/>
+<img height="240" src="./gdscunivalle-gitworkshop/300708443_480919447252544_7880609078189125050_n.jpg"/>
 </details>
 
 ## Hackathon Road to Solution Challenge
