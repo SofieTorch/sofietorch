@@ -4,16 +4,16 @@ This is a recopilation of events where I been part of the organizing team, along
 
 ### Table of contents
 
-- [Opening JS Cochabamba](#opening-js-cochabamba)
-- [DevFest Cochabamba 2023](#devfest-cochabamba-2023)
-- [Bolivian Women's Day 2023](#bolivian-womens-day-2023)
-- [Women in Engineering](#women-in-engineering)
-- [International Women's Day Cochabamba 2023](#international-womens-day-cochabamba-2023)
-- [DevFest Bolivia 2022](#devfest-bolivia-2022)
-- [Growing Together - Bolivian Women's Day 2022](#growing-together---bolivian-womens-day-2022)
-- [Introduction to Git & GitHub Workshop](#introduction-to-git--github-workshop)
-- [Hackathon Road to Solution Challenge](#hackathon-road-to-solution-challenge)
-- [Design for Dummies](#design-for-dummies)
+1. [Opening JS Cochabamba](#opening-js-cochabamba)
+2. [DevFest Cochabamba 2023](#devfest-cochabamba-2023)
+3. [Bolivian Women's Day 2023](#bolivian-womens-day-2023)
+4. [Women in Engineering](#women-in-engineering)
+5. [International Women's Day Cochabamba 2023](#international-womens-day-cochabamba-2023)
+6. [DevFest Bolivia 2022](#devfest-bolivia-2022)
+7. [Growing Together - Bolivian Women's Day 2022](#growing-together---bolivian-womens-day-2022)
+8. [Introduction to Git & GitHub Workshop](#introduction-to-git--github-workshop)
+9. [Hackathon Road to Solution Challenge](#hackathon-road-to-solution-challenge)
+10. [Design for Dummies](#design-for-dummies)
 
 ## Opening JS Cochabamba
 
