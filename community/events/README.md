@@ -287,11 +287,58 @@ This is a recopilation of events where I been part of the organizing team, along
 
 ## Growing Together - Bolivian Women's Day 2022
 
-https://www.instagram.com/stories/highlights/17976966286774535/
-https://www.instagram.com/p/CkOwHeBuLAW/
-https://www.instagram.com/p/CkOwJ6nuf5t/
-https://www.instagram.com/p/CkQnkborq9v/
-https://www.instagram.com/p/CkRh7L3LYUJ/
+<details>
+<summary>
+<a href="https://www.instagram.com/stories/highlights/17976966286774535/">instagram.com/stories/highlights/17976966286774535/</a>
+</summary>
+
+<img height="340" src="./gdscunivalle-growingtogether2022/h_2024-06-29-235603.png"/>
+
+<img height="340" src="./gdscunivalle-growingtogether2022/h_2024-06-29-235701.png"/>
+
+<img height="340" src="./gdscunivalle-growingtogether2022/h_2024-06-29-235843.png"/>
+
+<img height="340" src="./gdscunivalle-growingtogether2022/h_2024-06-29-235927.png"/>
+
+<img height="240" src="./gdscunivalle-growingtogether2022/h_313017591_3409799969256888_1940361564240679927_n.jpg"/>
+
+</details>
+
+<details>
+<summary>
+<a href="https://www.instagram.com/p/CkOwHeBuLAW/">instagram.com/p/CkOwHeBuLAW/</a>
+</summary>
+
+<img height="240" src="./gdscunivalle-growingtogether2022/1_312937940_5532954483487440_515209458115340346_n.jpg"/>
+
+</details>
+
+<details>
+<summary>
+<a href="https://www.instagram.com/p/CkOwJ6nuf5t/">instagram.com/p/CkOwJ6nuf5t/</a>
+</summary>
+
+<img height="240" src="./gdscunivalle-growingtogether2022/2_312936863_821682839156908_8849657330089592391_n.jpg"/>
+
+</details>
+
+<details>
+<summary>
+<a href="https://www.instagram.com/p/CkQnkborq9v/">instagram.com/p/CkQnkborq9v/</a>
+</summary>
+
+<img height="240" src="./gdscunivalle-growingtogether2022/3_313200289_2287960458039788_1912265530314739065_n.jpg"/>
+
+</details>
+
+<details>
+<summary>
+<a href="https://www.instagram.com/p/CkRh7L3LYUJ/">instagram.com/p/CkRh7L3LYUJ/</a>
+</summary>
+
+<img height="240" src="./gdscunivalle-growingtogether2022/4_313112986_649976866687162_8036449333876395252_n.jpg"/>
+
+</details>
 
 ## Introduction to Git & GitHub Workshop
 
@@ -305,13 +352,60 @@ https://www.instagram.com/p/CkRh7L3LYUJ/
 
 ## Hackathon Road to Solution Challenge
 
-https://www.youtube.com/watch?v=zMQ-dMxOZto
-https://www.youtube.com/watch?v=3UiH6XFaw1U
-https://www.instagram.com/p/CYl86g2LRq-/
-https://www.instagram.com/p/CYuyuD6ry-x/
-https://www.instagram.com/p/CYuzWZEr6jz/
-https://www.instagram.com/p/CYzL6LXLdcj/
-https://www.instagram.com/p/CYzMJbfrMiv/
+[![Click to go to live](https://i.ytimg.com/vi/zMQ-dMxOZto/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwi19U8bX7qOKBs5FmuVlRFCjucg)](https://www.youtube.com/watch?v=zMQ-dMxOZto)
+
+> https://www.youtube.com/watch?v=zMQ-dMxOZto
+
+[![Click to go to live](https://i.ytimg.com/vi/3UiH6XFaw1U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDd8-t8zB5ieLkOlqNbeC3Srwkq-w)](https://www.youtube.com/watch?v=3UiH6XFaw1U)
+
+> https://www.youtube.com/watch?v=3UiH6XFaw1U
+
+<details>
+<summary>
+<a href="https://www.instagram.com/p/CYxkUs-L25r/">instagram.com/p/CYxkUs-L25r/</a>
+</summary>
+
+<img height="240" src="./gdscunivalle-roadtosolutionchallenge/1_271870606_2383340418469001_6577965937765377683_n.jpg"/>
+
+</details>
+
+</details>
+
+<details>
+<summary>
+<a href="https://www.instagram.com/p/CYuzWZEr6jz/">instagram.com/p/CYuzWZEr6jz/</a>
+</summary>
+
+<img height="240" src="./gdscunivalle-roadtosolutionchallenge/2_271880121_1059902221239431_4771873032741112404_n.jpg"/>
+
+</details>
+
+<details>
+<summary>
+<a href="https://www.instagram.com/p/CYzL6LXLdcj/">instagram.com/p/CYzL6LXLdcj/</a>
+</summary>
+
+<img height="240" src="./gdscunivalle-roadtosolutionchallenge/3_272071046_986839671905479_6734607222726631749_n.jpg"/>
+
+</details>
+
+<details>
+<summary>
+<a href="https://www.instagram.com/p/CYzD7eJrvFo/">instagram.com/p/CYzD7eJrvFo/</a>
+</summary>
+
+<img height="240" src="./gdscunivalle-roadtosolutionchallenge/4_271880062_325424456004891_1714077226822470072_n.jpg"/>
+
+</details>
+
+<details>
+<summary>
+<a href="https://www.instagram.com/p/CYl86g2LRq-/">instagram.com/p/CYl86g2LRq-/</a>
+</summary>
+
+<img height="240" src="./gdscunivalle-roadtosolutionchallenge/5_271826600_2709575802521964_5485908934344346327_n.jpg"/>
+
+</details>
 
 ## Design for Dummies
 
