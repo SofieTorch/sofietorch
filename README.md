@@ -1,7 +1,7 @@
 <h1 align="center">
 <img width="32" src="assets/green-junimo.png"/>
 <img width="32" src="assets/purple-junimo.png"/>
-Hi there! I'm Sofia
+Hey! I'm Sofia
 <img width="32" src="assets/purple-junimo.png"/>
 <img width="32" src="assets/green-junimo.png"/>
 </h1>
