@@ -20,7 +20,7 @@ Cofounder | Mobile Engineer | JS Cochabamba Organizer | +7 years of coding and f
 
 <img height="36" src="assets/my-community-contributions.png">
 
-- 💛 Cofounder of JavaScript Cochabamba along with another great and nerd folks (as me).
+- 💛 Cofounder of [JavaScript Cochabamba](https://www.instagram.com/js.cochabamba/) along with another great and nerd folks (as me).
 - <img width="24" src="assets/gdsc_logo.png"> Former Lead at Google Developer Student Club Univalle 2022 - 2023.
 - 🎤 Speaker at local meetups and tech events like NG Bolivia, NG She Bolivia and FLISoL (Latin American Open Source Software Installation Festival).
 - 📌 Organized many local meetups and some bigger tech events like International Women's Day Cochabamba and DevFest Cochabamba, impacting more +300 students in STEM!
