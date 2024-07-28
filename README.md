@@ -14,7 +14,7 @@ Cofounder | Mobile Engineer | JS Cochabamba Organizer | +7 years of coding and f
 
 - I loooove developing for mobile (with Flutter 💙), but I also like some web dev too :)
 - 🚀 I'm currently working on my startup: Docu-Menta, seeking to make science accesible in Spanish.
-- 👩‍💻 I'm looking to contribute to open source, hoping to open some PRs soon! In the meantime, you can check out [epub_decoder](https://pub.dev/packages/epub_decoder) for Flutter and [find-and-lowercase](https://github.com/marketplace/actions/find-and-lowercase) action.
+- 👩‍💻 I'm looking to contribute to open source, hoping to open some PRs soon! In the meantime, you can check out my open source projects: [epub_decoder](https://pub.dev/packages/epub_decoder) for Flutter and [find-and-lowercase](https://github.com/marketplace/actions/find-and-lowercase) action.
 - I like to participate on hackathons and sometimes even win them (check out [my LinkedIn](https://www.linkedin.com/in/sofitoro/) if you feel curious ^^).
 - I really enjoy to play Stardew Valley 🐤 If you can help me to achieve perfection, I will be very grateful.
 
