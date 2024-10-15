@@ -7,7 +7,7 @@ Hey! I'm Sofia
 </h1>
 
 <p align="center">
-Cofounder | Mobile Engineer | JS Cochabamba Organizer | Coding and fighting bugs 🗡 since I was 14 (+8 years now!)
+FullStack Software Engineer | JS Cochabamba Organizer | Coding and fighting bugs 🗡 since I was 14 (+8 years now!)
 </p>
 
 <img height="36" src="assets/about-me.png">
