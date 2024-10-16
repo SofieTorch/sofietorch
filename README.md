@@ -12,7 +12,7 @@ FullStack Software Engineer | JS Cochabamba Organizer | Coding and fighting bugs
 
 <img height="36" src="assets/about-me.png">
 
-- I love **creating technology that creates technology** (libraries, packages and more!) 🐱‍💻
+- I love solving coding problems that challenge me, which led me to build libraries, packages and more! 🐱‍💻
 - I enjoy developing for mobile (**with Flutter** 💙), but I do some web dev too :)
 - 👩‍💻 I'm looking to contribute to open source, hoping to open some PRs soon! In the meantime, you can check out **my most recent open source package: [epub_decoder](https://pub.dev/packages/epub_decoder) for Flutter**.
 - One of my current activities is doing research in AI applied to Automatic Short Answer Grading.
